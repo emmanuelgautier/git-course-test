@@ -10,7 +10,7 @@ You can just follow the steps and check if your CI is OK with what you have done
 
 - Fork this repository first
 - Create a first branch named `my-first-branch`
-- Edit the file
+- Create a file named `myfile.txt`
 - Commit your changes and push the new commit
 - Create a pull request for your new branch
 
