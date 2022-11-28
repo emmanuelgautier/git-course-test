@@ -4,6 +4,8 @@
 
 This repository contains small piece of codes. This is not a real project of course but you will be able to test yourself making some changes on this project.
 
+This Git repository is part of the [Git Essentials](https://courses.emmanuelgautier.com/course/view.php?id=2) course.
+
 ## What you should do ?
 
 You can just follow the steps and check if your CI is OK with what you have done:
